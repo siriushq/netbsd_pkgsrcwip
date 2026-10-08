@@ -23,7 +23,7 @@ jobs:
 
           git remote add upstream https://github.com/netbsd/pkgsrc-wip.git
           git fetch upstream
-          git checkout -B trunk upstream/trunk
+          git checkout -B trunk upstream/master
           
       - name: force push to trunk
         env:

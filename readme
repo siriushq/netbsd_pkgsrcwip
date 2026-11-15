@@ -1,10 +1,8 @@
 siriushq/netbsd_pkgsrcwip
 =========================
 
-This repository hosts a mirror of the pkgsrc-wip source code, available
-in the `trunk` branch, retrieved from the official Git mirror of the
-CVS repository, from the `master` upstream branch.
-
-This repository is maintained to provide a Git workflow for forks and
-other projects that depend on this source tree.  The `trunk` branch is
-the exclusive tracking-branch for every dependent.
+This repository hosts a mirror of the pkgsrc wip source code, available
+in the `upstream` branch, retrieved from the official Git repository,
+from the `master` branch upstream.  This repository is maintained to
+provide a Git workflow for forks and other projects that depend on
+this source tree.
